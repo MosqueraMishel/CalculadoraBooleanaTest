@@ -1,0 +1,2 @@
+# CalculadoraBooleanaTest
+Calculadora booleana educativa.
